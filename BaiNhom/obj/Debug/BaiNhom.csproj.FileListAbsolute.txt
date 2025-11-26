@@ -1,0 +1,15 @@
+F:\Baihoc\BaiNhom\BaiNhom\bin\Debug\BaiNhom.exe.config
+F:\Baihoc\BaiNhom\BaiNhom\bin\Debug\BaiNhom.exe
+F:\Baihoc\BaiNhom\BaiNhom\bin\Debug\BaiNhom.pdb
+F:\Baihoc\BaiNhom\BaiNhom\obj\Debug\BaiNhom.csproj.AssemblyReference.cache
+F:\Baihoc\BaiNhom\BaiNhom\obj\Debug\BaiNhom.csproj.CoreCompileInputs.cache
+F:\Baihoc\BaiNhom\BaiNhom\obj\Debug\BaiNhom.exe
+F:\Baihoc\BaiNhom\BaiNhom\obj\Debug\BaiNhom.pdb
+G:\BaiNhom\BaiNhom\BaiNhom\bin\Debug\BaiNhom.exe.config
+G:\BaiNhom\BaiNhom\BaiNhom\bin\Debug\BaiNhom.exe
+G:\BaiNhom\BaiNhom\BaiNhom\bin\Debug\BaiNhom.pdb
+G:\BaiNhom\BaiNhom\BaiNhom\obj\Debug\BaiNhom.csproj.AssemblyReference.cache
+G:\BaiNhom\BaiNhom\BaiNhom\obj\Debug\BaiNhom.exe.config
+G:\BaiNhom\BaiNhom\BaiNhom\obj\Debug\BaiNhom.csproj.CoreCompileInputs.cache
+G:\BaiNhom\BaiNhom\BaiNhom\obj\Debug\BaiNhom.exe
+G:\BaiNhom\BaiNhom\BaiNhom\obj\Debug\BaiNhom.pdb
